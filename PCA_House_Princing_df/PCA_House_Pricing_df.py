@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[22]:
-
-
 import numpy as np
 import pandas as pd
 
@@ -100,9 +94,6 @@ clean_df = make_reduced_df(df, pc['Eigenvector'])
 
 #we could eliminate 2 columns in the process and still preserve a lot of information from the set
 print(clean_df)
-
-
-# In[ ]:
 
 
 
