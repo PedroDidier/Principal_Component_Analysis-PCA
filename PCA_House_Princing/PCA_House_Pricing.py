@@ -94,7 +94,3 @@ clean_df = make_reduced_df(df, pc['Eigenvector'])
 
 #we could eliminate 2 columns in the process and still preserve a lot of information from the set
 print(clean_df)
-
-
-
-
